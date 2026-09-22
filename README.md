@@ -38,13 +38,13 @@ ideas into real-world projects.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.netlify.app/api?username=protap-paul&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=protap-paul&show_icons=true&hide_border=true" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.netlify.app/api/top-langs/?username=protap-paul&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap-paul&layout=compact&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
