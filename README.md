@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Protap Paul - Full Stack Web Developer" />
+</p>
 # 👋 Hi, I'm Protap Paul
 
 ### 🚀 Full Stack Web Developer
