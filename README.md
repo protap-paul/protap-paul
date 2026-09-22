@@ -30,7 +30,7 @@ ideas into real-world projects.
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/protap-paul404/">
+  <a href="https://www.linkedin.com/in/protap-paul404/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
@@ -38,13 +38,13 @@ ideas into real-world projects.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=protap-paul&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.netlify.app/api?username=protap-paul&show_icons=true&hide_border=true" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap-paul&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.netlify.app/api/top-langs/?username=protap-paul&layout=compact&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
