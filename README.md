@@ -68,11 +68,11 @@ Hi, I'm **Protap Paul**, a Full Stack Web Developer in progress passionate about
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=protap-paul&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=protap-paul&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap-paul&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=protap-paul&layout=compact&theme=transparent&hide_border=true&langs_count=8"
     width="48%"
   />
 </p>
