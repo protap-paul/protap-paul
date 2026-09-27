@@ -111,7 +111,7 @@ Hi, I'm **Protap Paul**, a Full Stack Web Developer in progress passionate about
 <p align="center">
   <a href="https://github.com/protap-paul">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=protap-paul&repo=YOUR_REPOSITORY_NAME&theme=transparent&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=protap-paul&repo=protap-paul&theme=transparent&hide_border=true"
     />
   </a>
 </p>
