@@ -54,11 +54,11 @@ Hi, I'm **Protap Paul**, a Full Stack Web Developer in progress passionate about
 
 <p align="left">
   <a href="https://github.com/protap-paul">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/protap-paul404/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/profile.php?id=61589155436129">
