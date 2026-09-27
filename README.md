@@ -99,7 +99,7 @@ Hi, I'm **Protap Paul**, a Full Stack Web Developer in progress passionate about
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/protap-paul/protap-paul/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/protap-paul/protap-paul/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
@@ -109,9 +109,17 @@ Hi, I'm **Protap Paul**, a Full Stack Web Developer in progress passionate about
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/protap-paul">
+  <a href="https://github.com/protap-paul/fit-log">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=protap-paul&repo=protap-paul&theme=transparent&hide_border=true"
+      src="https://github-readme-stats-auqn.vercel.app/api/pin/?username=protap-paul&repo=fit-log&theme=transparent&hide_border=true"
+      width="48%"
+    />
+  </a>
+
+  <a href="https://github.com/protap-paul/movie-explorer-web">
+    <img
+      src="https://github-readme-stats-auqn.vercel.app/api/pin/?username=protap-paul&repo=react-dev-stack&theme=transparent&hide_border=true"
+      width="48%"
     />
   </a>
 </p>
