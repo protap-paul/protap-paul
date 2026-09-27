@@ -60,6 +60,10 @@ Hi, I'm **Protap Paul**, a Full Stack Web Developer in progress passionate about
   <a href="https://www.linkedin.com/in/protap-paul404/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61589155436129">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" />
+  </a>
 </p>
 
 ---
